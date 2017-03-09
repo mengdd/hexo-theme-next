@@ -28,7 +28,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -146,7 +146,7 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: https://avatars1.githubusercontent.com/u/3823345?v=3&s=400
+  GitHub: github
   Twitter: twitter
   Weibo: weibo
 
@@ -199,11 +199,12 @@ sidebar:
 
 
 # Blog rolls
-#links_title: Links
-#links_layout: block
+links_title: Links
+links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  圣骑士Wind@博客园: http://www.cnblogs.com/mengdd/
+  圣骑士Wind@简书: http://www.jianshu.com/u/c4192d22f989
 
 
 # ---------------------------------------------------------------
