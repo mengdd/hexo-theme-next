@@ -284,10 +284,10 @@ mathjax:
 baidu_analytics: 83e8338b542a9fd155f68673d113e0ae
 
 # Duoshuo ShortName
-duoshuo_shortname: mengddgithub
+# duoshuo_shortname: mengddgithub
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: dandanmeng
 
 # Hypercomments
 #hypercomments_id:
